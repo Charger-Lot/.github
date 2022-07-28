@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# Charger Lot
-Charger Lot is the unofficial name of the parking app we've developed for UAH.
+# ParkSight
+ParkSight is the name of the parking app we've developed for UAH.
 
 Official Release will be happening soon!
